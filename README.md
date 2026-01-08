@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2siddhi&label=Profile%20views&color=0e75b6&style=flat" alt="code2siddhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code2siddhi" alt="code2siddhi" /></a> </p>
+<p align="left"> <a [href="https://github.com/ryo-ma/github-profile-trophy](https://github.com/code2siddhi)"><img src="[https://github-profile-trophy.vercel.app/?username=code2siddhi](https://github.com/github)" alt="code2siddhi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,9 +11,10 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://my-porrtfolio-three.vercel.app/](https://my-porrtfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-porrtfolio-three.vercel.app/](https://my-porrtfolio-three.vercel.app/) 
 
 - 💬 Ask me about **React**
+
 
 - 📫 How to reach me **code2siddhi@gmail.com**
 
